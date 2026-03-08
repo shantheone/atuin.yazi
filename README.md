@@ -10,7 +10,7 @@ Shows an fzf picker of the last 200 commands by calling `atuin search`
 ## Installation
 
 ```sh
-ya pkg add shantheone/atuin.yazi
+ya pkg add shantheone/atuin
 ```
 
 ## Usage
