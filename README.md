@@ -4,7 +4,7 @@ Shows an fzf picker of the last 200 commands by calling `atuin search`
 
 ## Requirements
 
-[fzf](https://github.com/junegunn/fzf) 
+[fzf](https://github.com/junegunn/fzf)<br>
 [atuin](https://atuin.sh/) 
 
 ## Installation
