@@ -4,7 +4,7 @@ return {
 
 		local cmd = string.format(
 			[[
-selected=$(atuin search --limit %d --cmd-only | fzf --header "Search atuin history" --header-first --no-info --reverse)
+selected=$(atuin search --limit %d --cmd-only | fzf --header "Search atuin history" --header-first --no-info)
 if [ -n "$selected" ]; then
   eval "$selected"
 fi
